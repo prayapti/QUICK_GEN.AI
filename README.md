@@ -5,14 +5,15 @@ It uses AI APIs to instantly transform user prompts into high-quality outputs, p
 
 🌐 **Live Demo:** [https://quick-gen-ai.vercel.app/](https://quick-gen-ai.vercel.app/)  
 
----
+-----
+
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)  
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)  
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)  
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)  
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
------
+---------
 
 ## 🏆 Why This Project Stands Out
 This project is **built to professional standards** ;  
@@ -36,7 +37,7 @@ This project is **built to professional standards** ;
 
 ## 🛠 Tech Stack
 
-**Frontend:**  
+**Frontend:**          
 - React.js (Vite)  
 - Tailwind CSS (UI styling)  
 - Axios (API requests)  
@@ -75,4 +76,7 @@ quick-gen-ai/
 ├── .env.example           # Example environment variables
 ├── README.md
 └── package.json
+----
+
+💡 Made with ❤️ by PRAYAPTI 
 
